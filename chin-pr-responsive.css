@@ -1,0 +1,184 @@
+@media screen and (min-width:414px) {
+
+    .div-title{
+        top: 20px;
+    }
+
+    .bg{
+        height: 240px;
+    }
+
+    .img-pr{
+        top: 150px;
+        width: 170px;
+        height: 170px;
+    }
+
+    .title-name{    
+        font-size: 40px;
+    }
+    
+    .title-full-name{  
+        top: 7px;     
+        font-size: 33px;     
+    }
+
+    .buttom-baner{
+        top:95px
+    }
+
+    span{
+        height: 100px;
+    }
+}
+
+@media screen and (min-height:812px) {
+
+    .div-title{
+        top: 40px;
+    }
+
+    .bg{
+        height: 255px;
+    }
+
+    .img-pr{
+        top: 150px;
+        width: 190px;
+        height: 190px;
+        left: 25%;
+    }
+
+    span{
+        padding: 20px;
+        height: 120px;
+        font-size: 17px;
+    }
+
+    .li-bt{
+        height: 40px;
+        font-size: 16px;
+    }
+
+    .title-name{    
+        font-size: 45px;
+        color: rgb(0,0,0,0.7);
+    }
+    
+    .title-full-name{  
+        top: 7px;     
+        font-size: 36px;     
+    }
+
+    .buttom-baner{
+        top: 105px
+    }
+}
+
+
+@media screen and (min-width:600px) {
+    .img-pr{
+        top: 150px;
+        left: 35%;
+    }
+
+    .bt-contact , .bt-follow{
+        width: 180px;
+    }
+
+    .more-icon{
+        font-size: 40px;
+        color: rgb(255,255,255,0.8);
+    }
+
+    .water-icon{
+        font-size: 730px;
+        bottom: -330px;
+        left: -70px;
+    }
+    span{
+        font-size: 17px;
+    }
+
+    .li-bt{
+        height: 40px;
+        font-size: 17px;
+    }
+
+    .title-name{    
+        font-size: 50px;
+        color: rgb(0,0,0,0.7);
+    }
+    
+    .title-full-name{  
+        top: 7px;     
+        font-size: 39px;     
+    }
+
+    .buttom-baner{
+        top: 115px
+    }
+
+    .content{
+        padding: 15px;
+    }
+}
+
+
+@media screen and (min-width:768px) {
+
+    .buttom-baner{
+        top: 125px
+    }
+
+    .img-pr{
+        top: 240px;
+        left: 35%;
+        width: 230px;
+        height: 230px;
+    }
+
+    .bg{
+        height: 365px;
+    }
+
+    .bt-contact , .bt-follow{
+        width: 235px;
+        height: 37px;
+    }
+
+    .more-icon{
+        font-size: 40px;
+        color: rgb(255,255,255,0.8);
+    }
+
+    .water-icon{
+        font-size: 730px;
+        bottom: -330px;
+        left: -70px;
+    }
+    span{
+        font-size: 18px;
+    }
+
+    .li-bt{
+        height: 60px;
+        font-size: 18px;
+        border-radius: 10px;
+    }
+
+    .title-name{    
+        font-size: 55px;
+        color: rgb(0,0,0,0.7);
+    }
+    
+    .title-full-name{  
+        top: 12px;     
+        font-size: 45px;     
+    }
+
+    .water-icon{
+        font-size: 930px;
+        bottom: -450px;
+    }
+}
