@@ -9,20 +9,13 @@ font-family: 'Comfortaa', cursive; */
 }
 
 .body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: rgb(253, 235, 208);
-}
-
-.profile-card{
     background-color: RGB(255,255,255);
     width: 100%;
-    height: 100vh;
+    height: 100vh; 
     position: relative;
-    box-shadow: 3px 5px 5px rgb(0,0,0,0.3);
     overflow: hidden;
 }
+
 
 .div-title{
     position: absolute;
@@ -196,20 +189,12 @@ a{
     z-index: 1;
 }
 
-.water-icon{
-    position: absolute;
-    left: -50px;
-    bottom: -280px;
-    font-size: 600px;
-    color: rgb(243, 156, 18,0.2);
-    z-index: 0;
-}
 
 .list-bottom{
     width: 100%;
     list-style: none;
     margin-top: 15px;
-    position: absolute;
+    position: relative;
     text-align: center;
     z-index: 1;
 }
